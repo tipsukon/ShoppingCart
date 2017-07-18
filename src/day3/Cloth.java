@@ -1,3 +1,4 @@
+//Test
 
 package day3;
 
@@ -5,6 +6,7 @@ public abstract class Cloth {
     private double price;
     private char size;
     private String type;
+    private String LL;
     
 //    protected String factoryName;
     
