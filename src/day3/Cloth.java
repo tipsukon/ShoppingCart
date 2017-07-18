@@ -6,7 +6,7 @@ public abstract class Cloth {
     private double price;
     private char size;
     private String type;
-    private String LL;
+    private String MM;
     
 //    protected String factoryName;
     
